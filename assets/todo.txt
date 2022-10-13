@@ -1,0 +1,5 @@
+# individual tile pictures
+# background image(if so desired)
+# sounds?
+# new color schemes?
+# skinning options?
